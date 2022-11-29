@@ -54,6 +54,11 @@ button {
   height: 20%;
   border: 1px solid grey;
   padding: 0;
+  background-color: rgb(232, 232, 232);
+}
+
+button:active {
+  filter: brightness(90%);
 }
 
 #zeroBtn {
