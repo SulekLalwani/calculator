@@ -17,7 +17,7 @@ body {
 .input {
   height: 20%;
   box-sizing: border-box;
-  border: 1px solid black;
+  border: 1px solid grey;
   background-color: rgb(108, 108, 108);
 }
 
@@ -52,7 +52,7 @@ button {
   font-size: 2em;
   width: 25%;
   height: 20%;
-  border: 1px solid black;
+  border: 1px solid grey;
   padding: 0;
 }
 
