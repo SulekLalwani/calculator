@@ -57,3 +57,7 @@ button {
   width: 50%;
   padding-right: 25%;
 }
+
+.operatorBtn {
+  background-color: orange;
+}
